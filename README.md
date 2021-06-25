@@ -4,3 +4,4 @@ yaklaşıma sahiptir: anlık görüntülerden çok değişikliklere odaklanır. 
 Darcs, merkezi bir sunucu gerektirmez ve çevrimdışı modda mükemmel çalışır.
 
 Hazırlamış olduğum dökümanda Darcs hakkında bilgiler, kaynaklar, kurulumu ve temel komutları anlatılmıştır.
+Döküman Org Mode üzerinde hazırlanmıştır.
